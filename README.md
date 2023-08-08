@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### Get in touch
-<li>Linkedin: https://www.linkedin.com/in/agung-maruf/</li>
+<li>Linkedin: https://www.linkedin.com/in/agungmrf/</li>
 <li>Instagram: https://www.instagram.com/agungmrf_/</li>
 
